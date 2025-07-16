@@ -2,6 +2,10 @@
 
 This file provides context and instructions for Claude when working on this project.
 
+## Important Instructions
+
+Always read PLANNING.md at the start of every new conversation, check TASKS.md before starting your work, mark completed tasks to TASKS.md immediately, and add newly discovered tasks to TASKS.md when found.
+
 ## Project Overview
 
 This is a Task Manager demo application built with React and Vite. It demonstrates modern React patterns and features a clean, gradient-styled UI.
